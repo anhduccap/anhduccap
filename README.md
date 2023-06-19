@@ -9,7 +9,7 @@
 
 ## Glad to see you here! &nbsp;
 
-<img align="right" alt="GIF" src="./images//coding.gif?raw=true" width="408" height="318" />~
+<img align="right" alt="GIF" src="./images//coding.gif?raw=true" width="408" height="318" />
 
 -   👨‍🎓 I'm a **Student in Information System Major**
 -   🔭 I’m currently a **Backend Software Engineer**
