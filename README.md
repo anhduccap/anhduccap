@@ -9,11 +9,12 @@
 
 ## Glad to see you here! &nbsp;
 
-<img align="right" alt="GIF" src="./images//coding.gif?raw=true" width="408" height="318" />
+<img align="right" alt="GIF" src="./images//coding.gif?raw=true" width="408" height="318" />~
 
 -   👨‍🎓 I'm a **Student in Information System Major**
 -   🔭 I’m currently a **Backend Software Engineer**
 -   📬 How to reach me: [anhduccap@gmail.com](mailto:anhduccap@gmail.com)
+-   ⚡ [Paper](https://scholarworks.bwise.kr/cau/handle/2019.sw.cau/59788?mode=full).
 -   📝 [Resume](https://drive.google.com/file/d/10ErwVvjx1NfGhTtgsO1o3xpQ69uKRNj8/view?usp=drive_link).
 
 ---
